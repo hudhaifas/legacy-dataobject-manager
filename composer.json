@@ -17,7 +17,7 @@
     "require": {
         "silverstripe/cms": "~3.0",
         "silverstripe/framework": "~3.0",
-        "tractorcow/silverstripe-autocomplete": "^3.4"
+        "samthejarvis/silverstripe-watermarking": "dev-master"
     },
     "extra": {
         "installer-name": "dataobject-manager"
